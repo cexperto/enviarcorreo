@@ -1,0 +1,13 @@
+.container { 
+    display: inline-block; 
+    width: 355px; 
+    height: 220px; 
+    margin: 6px; 
+    background-color: #fff;
+    border-style: solid;
+    border-color: #e8e8e8;
+    border-radius: 10px;
+    border:2px solid #BEBEBE;
+    cursor:pointer;
+    min-height:45px;
+    }
